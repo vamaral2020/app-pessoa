@@ -36,7 +36,7 @@ Projeto criado com objetivo de estudo da linguagem Go e seus conceitos fundament
 ---
 
 ## 📂 Estrutura do Projeto
-app-pessoa/
+```app-pessoa/
 │
 ├── main.go
 ├── go.mod
@@ -49,7 +49,7 @@ app-pessoa/
 ├── model/
 │ └── pessoa.go
 └── database/
-└── connection.go
+└── connection.go```
 
 
 Arquitetura simples seguindo separação de responsabilidades:
